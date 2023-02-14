@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi feito com a finalidade de se aprofundar no CSS.
 
-- [Visite o projeto online](https://arturnery.github.io/nlw-11-setup-explorer/)
+- [Visite o projeto online](https://arturnery.github.io/stage-03-projeto-03-CSS-avancado)
 
 ## 🔖 Layout
 
